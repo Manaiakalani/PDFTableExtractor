@@ -1,4 +1,4 @@
-tabula-py==2.9.0
+tabula-py==2.10.0
 pandas>=1.5.0
 openpyxl>=3.0.0
 camelot-py[cv]>=0.11.0
