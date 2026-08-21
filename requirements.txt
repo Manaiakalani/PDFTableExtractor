@@ -8,6 +8,6 @@ lxml>=6.1.1
 Pillow>=12.3.0
 opencv-python>=4.13.0.92
 streamlit>=1.61.1
-reportlab>=4.5.1
+reportlab>=5.0.0
 matplotlib>=3.11.1
 seaborn>=0.13.2
